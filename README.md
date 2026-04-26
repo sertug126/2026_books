@@ -18,9 +18,9 @@ Welcome to my personal library log. This repository serves as a digital archive 
 
 | Book Title | Author | Category | Status | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| Power Of Geography | Tim Marshall | Geopolitics | ✅ Completed | [Link to Notes](./History/book1.md) |
-| Why Nations Fails | Daron Acemoglu-James A.Robinson| Political economy | ✅ Completed | [Link to Notes](./Philosophy/book2.md) |
-| The Great Divide | Peter Watson | Political economy | ✅ Completed | [Link to Notes](./Philosophy/book2.md) |
+| Power Of Geography | Tim Marshall | Geopolitics | ✅ Completed | [Link to Notes](./Books/1.md) |
+| Why Nations Fails | Daron Acemoglu-James A.Robinson| Political economy | ✅ Completed | [Link to Notes](./Books/2.md) |
+| The Great Divide | Peter Watson | Political economy | ✅ Completed | [Link to Notes](./Books/3.md) |
 
 ## ✍️ Structure of My Notes
 Every review in this repository includes:
