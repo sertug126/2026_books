@@ -20,7 +20,8 @@ Welcome to my personal library log. This repository serves as a digital archive 
 | :--- | :--- | :--- | :--- | :--- |
 | Power Of Geography | Tim Marshall | Geopolitics | ✅ Completed | [Link to Notes](./Books/1.md) |
 | Why Nations Fails | Daron Acemoglu-James A.Robinson| Political economy | ✅ Completed | [Link to Notes](./Books/2.md) |
-| The Great Divide | Peter Watson | Political economy | ✅ Completed | [Link to Notes](./Books/3.md) |
+| The Great Divide | Peter Watson | Historical | ✅ Completed | [Link to Notes](./Books/3.md) |
+| Think and Grow Rich | Napoleon Hill | personal development book | ✅ Completed | [Link to Notes](./Books/4.md) |
 
 ## ✍️ Structure of My Notes
 Every review in this repository includes:
